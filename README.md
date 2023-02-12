@@ -1,1 +1,1 @@
-# SortingAlgorithm
+# Sorting Algorithms Visulaizer
